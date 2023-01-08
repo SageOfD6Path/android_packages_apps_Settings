@@ -136,4 +136,9 @@
     <string name="display_rotation_180_title">180 degrees</string>
     <string name="display_rotation_270_title">270 degrees</string>
 
+    <!-- Adaptive charging -->
+    <string name="adaptive_charging">Adaptive Charging</string>
+    <string name="adaptive_charging_description">Extend battery lifespan by charging steadily during longer charging periods. Activated based on your usage cycle.</string>
+    <string name="keywords_adaptive_charging">charge, charging, smart charging, adaptive charging, battery, battery health</string>
+
 </resources>
